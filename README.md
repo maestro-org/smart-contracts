@@ -5,7 +5,7 @@ This repository is reponsible for housing all of the smart contracts that are (o
 
 # Contributing
 To add a smart contract to the [Smart Contracts Marketplace](https://www.gomaestro.org/smart-contracts), take the following steps:
-1. Create new directory in `contracts/`, named after the contract (e.g. `linear-vesting`).
+1. Create a new directory in `contracts/`, named after the contract (e.g. `linear-vesting`).
 2. Add a `meta.json` file in that directory, following [this](contracts/meta_template.json) template.
 3. Add the smart contract source code in the same directory or add it as a Git [submodule](https://github.blog/2016-02-01-working-with-submodules/).
 4. Open a Pull Request with these changes.
@@ -30,6 +30,6 @@ To add a smart contract to the [Smart Contracts Marketplace](https://www.gomaest
 | `server` | Backend code for interacting with Maestro API endpoints | N | https://github.com/maestro-org/smart-contract-servers/linear-vesting |
 
 # Documentation
-* [Complete E2E guide](TBD) on how to fully integrate your contract with the Maestro platform.
+* [Complete E2E guide](TBD) on how to fully integrate your contract with the Maestro platform
 * [Managed contracts deep dive](https://docs.gomaestro.org/docs/ManagedContracts/Introduction)
 * [Maestro Platform](https://docs.gomaestro.org/)
