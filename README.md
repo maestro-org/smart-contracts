@@ -1,7 +1,7 @@
 # Maestro Smart Contracts Marketplace
 Maestro's Managed-contract API offers developer-friendly endpoints for ready-to-deploy smart contracts. The fully managed service aims to improve developer experience and bootstrap Dapp development on Cardano.
 
-This repository is reponsible for housing all of the smart contracts that are (or will soon be) integrated into Maestro's Managed-contract API. The first step of integration is to add your contract to marketplace. Follow the steps below to do so!
+This repository is reponsible for housing all of the smart contracts that are (or will soon be) integrated into Maestro's Managed-contract API. The first step of integration is to add your contract to the marketplace. To do this, follow the steps below!
 
 # Contributing
 To add a smart contract to the [Smart Contracts Marketplace](https://www.gomaestro.org/smart-contracts), take the following steps:
