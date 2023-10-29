@@ -40,6 +40,10 @@ If the the contract you're contributing is managed by Maestro or another provide
 6. Contribute a helper [server](https://github.com/maestro-org/smart-contract-servers) to interact with the provider's API endpoints corresponding to the contract.
 7. Contribute a user-facing [client](https://github.com/maestro-org/smart-contract-clients) to interact with the contract via the server.
 
+---
+
+Meastro welcomes all contributors! Please see our [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
+
 ## Smart contract metadata
 | Parameter   | Description | Optional (Y/N) | Example     |
 | ----------- | ----------- | -------------- | ----------- |
