@@ -35,6 +35,12 @@ To add a smart contract to the [Smart Contracts Marketplace](https://www.gomaest
 4. Open a Pull Request with these changes. Ping [Varderes, Maestro CTO](https://linktr.ee/varderes_maestro) to potentially have it fast tracked!
 5. Shortly after the PR is merged, the contract will be available in the Plug-and-Play Marketplace!
 
+### Additional steps for managed contracts
+If the the contract you're contributing is managed by Maestro or another provider, feel free to:
+
+6. Contribute a helper [server](https://github.com/maestro-org/smart-contract-servers) to interact with the provider's API endpoints corresponding to the contract.
+7. Contribute a user-facing [client](https://github.com/maestro-org/smart-contract-clients) to interact with the contract via the server.
+
 ## Smart contract metadata
 | Parameter   | Description | Optional (Y/N) | Example     |
 | ----------- | ----------- | -------------- | ----------- |
