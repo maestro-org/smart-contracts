@@ -7,7 +7,7 @@
     <a href="https://docs.gomaestro.org/docs/ManagedContracts/Introduction">
       <img src="https://img.shields.io/badge/-Docs-blue?style=flat-square&logo=semantic-scholar&logoColor=white" />
     </a>
-    <a href="https://github.com/maestro-org/smart-contracts/blob/main/LICENSE">
+    <a href="./LICENSE">
       <img src="https://img.shields.io/github/license/maestro-org/smart-contracts?style=flat-square&label=License" />
     </a>
     <a href="./CONTRIBUTING.md">
