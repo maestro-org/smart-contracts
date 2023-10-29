@@ -1,15 +1,39 @@
-# Maestro Smart Contracts Marketplace
-Maestro's Managed-contract API offers developer-friendly endpoints for ready-to-deploy smart contracts. The fully managed service aims to improve developer experience and bootstrap Dapp development on Cardano.
+<p align="center">
+  <a href="https://www.gomaestro.org/">
+    <img src="https://www.gomaestro.org/logos/LandingLogos/DarkLogo.svg" alt="Maestro Logo" width="425" />
+  </a>
+  <h2 align="center"><a href="https://www.gomaestro.org/">Maestro</a> Smart Contract Library</h2>
+  <p align="center">
+    <a href="https://docs.gomaestro.org/docs/ManagedContracts/Introduction">
+      <img src="https://img.shields.io/badge/-Docs-blue?style=flat-square&logo=semantic-scholar&logoColor=white" />
+    </a>
+    <a href="https://github.com/maestro-org/smart-contracts/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/maestro-org/smart-contracts?style=flat-square&label=License" />
+    </a>
+    <a href="./CONTRIBUTING.md">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" />
+    </a>
+    <a href="https://twitter.com/GoMaestroOrg">
+      <img src="https://img.shields.io/badge/-%40GoMaestroOrg-F3F1EF?style=flat-square&logo=twitter&logoColor=1D9BF0" />
+    </a>
+    <a href="https://discord.gg/ES2rDhBJt3">
+      <img src="https://img.shields.io/badge/-Discord-414EEC?style=flat-square&logo=discord&logoColor=white" />
+    </a>
+  </p>
+</p>
+
+# 
+Maestro's [Managed Contracts API](https://docs.gomaestro.org/docs/ManagedContracts/Introduction) offers developer-friendly endpoints for ready-to-deploy smart contracts. The fully managed service aims to improve developer experience and bootstrap Dapp development on Cardano.
 
 This repository is reponsible for housing all of the smart contracts that are (or will soon be) integrated into Maestro's Managed-contract API. The first step of integration is to add your contract to the marketplace. To do this, follow the steps below!
 
 # Contributing
 To add a smart contract to the [Smart Contracts Marketplace](https://www.gomaestro.org/smart-contracts), take the following steps:
 1. Create a new directory in `contracts/`, named after the contract (e.g. `linear-vesting`).
-2. Add a `meta.json` file in that directory, following [this](contracts/meta_template.json) template.
-3. Add the smart contract source code in the same directory or add it as a Git [submodule](https://github.blog/2016-02-01-working-with-submodules/).
-4. Open a Pull Request with these changes.
-5. Shortly after the PR is merged, the contract will be listed in the marketplace!
+2. Add a `meta.json` file in that directory, following [this](contracts/meta_template.json) template. If you choose to use a logo, you can include it in this directory as well.
+3. Add the smart contract source code in the same directory, add it as a Git [submodule](https://github.blog/2016-02-01-working-with-submodules/), or simply paste the public repository URL. NOTE: The smart contract source code must be open sourced to be included in the Marketplace.
+4. Open a Pull Request with these changes. Ping [Varderes, Maestro CTO](https://linktr.ee/varderes_maestro) to potentially have it fast tracked!
+5. Shortly after the PR is merged, the contract will be available in the Plug-and-Play Marketplace!
 
 ## Smart contract metadata
 | Parameter   | Description | Optional (Y/N) | Example     |

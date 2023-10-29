@@ -7,7 +7,7 @@
     "royalty": "1%",
     "author": {
         "name": "Anastasia Labs",
-        "logo_64x64": ""
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/linear-vesting/anastasia_64x64.png"
     },
     "audit": {
         "auditor": "https://anastasialabs.com/",
