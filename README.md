@@ -2,7 +2,7 @@
   <a href="https://www.gomaestro.org/">
     <img src="https://www.gomaestro.org/logos/LandingLogos/DarkLogo.svg" alt="Maestro Logo" width="425" />
   </a>
-  <h2 align="center"><a href="https://www.gomaestro.org/">Maestro</a> Smart Contract Library</h2>
+  <h2 align="center"><a href="https://www.gomaestro.org/">Maestro</a> Smart Contract Marketplace Library</h2>
   <p align="center">
     <a href="https://docs.gomaestro.org/docs/ManagedContracts/Introduction">
       <img src="https://img.shields.io/badge/-Docs-blue?style=flat-square&logo=semantic-scholar&logoColor=white" />
