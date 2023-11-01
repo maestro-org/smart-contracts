@@ -1,3 +1,6 @@
 [submodule "contracts/linear-vesting/linear-vesting"]
 	path = contracts/linear-vesting/linear-vesting
 	url = https://github.com/Anastasia-Labs/linear-vesting.git
+[submodule "contracts/yield-farming/yieldfarming"]
+	path = contracts/yield-farming/yieldfarming
+	url = https://github.com/Anastasia-Labs/yieldfarming.git
