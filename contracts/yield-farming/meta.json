@@ -1,8 +1,8 @@
 {
     "name": "Yield Farming",
-    "summary": "TBD",
-    "description": "TBD",
-    "documentation": "TBD",
+    "summary": "Earn and redeem yield on tokens staked at an address",
+    "description": "Earn and redeem yield on tokens staked at an address. The contract controls the release of tokens over time, ensuring that the recipient can only claim them gradually.",
+    "documentation": "https://docs.gomaestro.org/docs/ManagedContracts/YieldFarming/Introduction",
     "framework": "Plutarch",
     "royalty": "TBD",
     "author": {
