@@ -1,0 +1,18 @@
+{
+    "name": "jpg.store V3",
+    "summary": "Bid and Ask contract powering NFT marketplace.",
+    "description": "Two main contracts: Bid and Ask. Bids are offerings in ADA in exchange for a given asset, asks are assets in exchange for ADA.",
+    "documentation": "https://medium.com/@jpgstorenft/unveiling-the-next-gen-smart-contract-update-for-jpg-store-2f883c913979",
+    "framework": "Aiken",
+    "royalty": "NA",
+    "author": {
+        "name": "jpg.store",
+        "logo_64x64": ""
+    },
+    "audit": {
+        "auditor": "https://sundae.fi/",
+        "audit_report": ""
+    },
+    "client": "",
+    "backend": ""
+}
