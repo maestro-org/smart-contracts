@@ -2,7 +2,7 @@
     "name": "AADA Finance V1",
     "summary": "P2P Lending and Borrowing Protocol",
     "description": "Peer-to-peer token lending and borrowing protocol",
-    "documentation": "",
+    "documentation": "https://medium.com/@lenfi/vacuumlabs-audits-aada-finances-v1-lending-protocol-f413f106b02a",
     "framework": "Aiken",
     "royalty": "NA",
     "author": {
@@ -10,8 +10,8 @@
         "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/aada-v1/aada-logo.png"
     },
     "audit": {
-        "auditor": "https://anastasialabs.com/",
-        "audit_report": ""
+        "auditor": "https://vacuumlabs.com/",
+        "audit_report": "https://github.com/aadafinance/materials/blob/main/aada-v1.1-aiken.pdf"
     },
     "client": "",
     "backend": ""
