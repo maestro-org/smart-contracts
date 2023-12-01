@@ -7,7 +7,7 @@
     "royalty": "NA",
     "author": {
         "name": "jpg.store",
-        "logo_64x64": ""
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/jpgstore-v3/jpgstore-logo.png"
     },
     "audit": {
         "auditor": "https://sundae.fi/",

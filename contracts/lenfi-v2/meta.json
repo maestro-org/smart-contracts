@@ -1,0 +1,18 @@
+{
+    "name": "Lenfi V2",
+    "summary": "Pooled Lending and Borrowing Protocol",
+    "description": "Pooled lending and borrowing protocol with flash loans",
+    "documentation": "",
+    "framework": "Aiken",
+    "royalty": "NA",
+    "author": {
+        "name": "Lenfi",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/lenfi-v2/lenfi-logo.png"
+    },
+    "audit": {
+        "auditor": "https://anastasialabs.com/",
+        "audit_report": ""
+    },
+    "client": "",
+    "backend": ""
+}

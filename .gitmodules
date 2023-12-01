@@ -13,3 +13,6 @@
 [submodule "contracts/aada-v1/aada_v1_aiken"]
 	path = contracts/aada-v1/aada_v1_aiken
 	url = https://github.com/aadafinance/aada_v1_aiken
+[submodule "contracts/lenfi-v2/lenfi-smart-contracts"]
+	path = contracts/lenfi-v2/lenfi-smart-contracts
+	url = https://github.com/lenfiLabs/lenfi-smart-contracts
