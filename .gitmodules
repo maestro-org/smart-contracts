@@ -10,3 +10,6 @@
 [submodule "contracts/direct-swap/direct-order-contracts"]
 	path = contracts/direct-swap/direct-order-contracts
 	url = https://github.com/Anastasia-Labs/direct-order-contracts
+[submodule "contracts/aada-v1/aada_v1_aiken"]
+	path = contracts/aada-v1/aada_v1_aiken
+	url = https://github.com/aadafinance/aada_v1_aiken
