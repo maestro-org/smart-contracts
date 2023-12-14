@@ -13,6 +13,6 @@
         "auditor": "https://anastasialabs.com/",
         "audit_report": ""
     },
-    "client": "https://github.com/maestro-org/smart-contract-clients/yield-farming",
-    "backend": "https://github.com/maestro-org/smart-contract-servers/yield-farming"
+    "client": "",
+    "backend": ""
 }

@@ -13,6 +13,6 @@
         "auditor": "https://anastasialabs.com/",
         "audit_report": ""
     },
-    "client": "https://github.com/maestro-org/smart-contract-clients/direct-swap",
-    "backend": "https://github.com/maestro-org/smart-contract-servers/direct-swap"
+    "client": "",
+    "backend": ""
 }

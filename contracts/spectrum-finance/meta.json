@@ -1,0 +1,18 @@
+{
+    "name": "Spectrum Finance",
+    "summary": "Trustless connected Cross-chain DEX",
+    "description": "Cross-chain DEX for fast, trustless cross-chain swaps, liquidity provision & liquidity mining.",
+    "documentation": "https://spectrum.fi/spectrum_wp_v1.pdf",
+    "framework": "Plutarch",
+    "royalty": "",
+    "author": {
+        "name": "Spectrum Network",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/spectrum-finance/spectrum-logo.jpg"
+    },
+    "audit": {
+        "auditor": "",
+        "audit_report": ""
+    },
+    "client": "",
+    "backend": ""
+}

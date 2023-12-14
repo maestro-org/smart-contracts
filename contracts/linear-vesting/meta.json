@@ -13,6 +13,6 @@
         "auditor": "https://anastasialabs.com/",
         "audit_report": ""
     },
-    "client": "https://github.com/maestro-org/smart-contract-clients/linear-vesting",
-    "backend": "https://github.com/maestro-org/smart-contract-servers/linear-vesting"
+    "client": "https://github.com/maestro-org/smart-contract-clients/tree/main/src/stories/LinearVesting",
+    "backend": ""
 }
