@@ -51,16 +51,16 @@ Meastro welcomes all contributors! Please see our [contributing guidelines](CONT
 | `summary` | Short summary of the smart contract | N | Lock tokens with a linear vesting schedule |
 | `description` | Detailed descripton of how the smart contract works | Y | Lock tokens with a linear vesting schedule and control the release of tokens over time |
 | `documentation` | Link to documentation explaining the | Y | https://docs.gomaestro.org/docs/ManagedContracts/LinearVesting/Introduction |
-| `framework` | Smart contract framework used to build the contract | N | Plutarch |
+| `framework` | Smart contract framework used to build the contract | N | Plutarch or Aiken |
 | `royalty` | On-chain cost of using the contract | Y | 1% |
 | `author:name` | Name of the smart contract author | N | Anastasia Labs |
 | `author:website` | Website of the smart contract | N | https://anastasialabs.com/ |
 | `author:logo_64x64` | Public URI the 64x64 logo | Y | https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/maestro-preprod/maestro-logo64x64.png |
 | `audit:auditor` | Name of the organization that audiated the smart contract | Y | Anastasia Labs |
 | `audit:website` | Website of the auditor | Y | https://anastasialabs.com/ |
-| `audit:audit_report` | Public audit report  | N |  |
-| `client` | Client side code for interacting with contract | N | https://github.com/maestro-org/smart-contract-clients/linear-vesting |
-| `server` | Backend code for interacting with Maestro API endpoints | N | https://github.com/maestro-org/smart-contract-servers/linear-vesting |
+| `audit:audit_report` | Public audit report  | Y |  |
+| `client` | Client side code for interacting with contract | Y | https://github.com/maestro-org/smart-contract-clients/tree/main/src/stories/LinearVesting |
+| `server` | Backend code for interacting with Maestro API endpoints | Y | https://github.com/maestro-org/smart-contract-servers/linear-vesting |
 
 # Documentation
 * [Complete E2E guide](TBD) on how to fully integrate your contract with the Maestro platform

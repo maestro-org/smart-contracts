@@ -1,8 +1,8 @@
 {
     "name": "Direct Swap",
-    "summary": "TBD",
-    "description": "TBD",
-    "documentation": "TBD",
+    "summary": "P2P swaps between token and NFT bundles",
+    "description": "Highly flexible P2P swap contract between bundles of tokens and NFTs",
+    "documentation": "https://docs.gomaestro.org/ManagedContracts/DirectSwap/Introduction",
     "framework": "Plutarch",
     "royalty": "TBD",
     "author": {
@@ -13,6 +13,6 @@
         "auditor": "https://anastasialabs.com/",
         "audit_report": ""
     },
-    "client": "https://github.com/maestro-org/smart-contract-clients/direct-swap",
-    "backend": "https://github.com/maestro-org/smart-contract-servers/direct-swap"
+    "client": "",
+    "backend": ""
 }

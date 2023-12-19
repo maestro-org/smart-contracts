@@ -1,0 +1,18 @@
+{
+    "name": "Lenfi V2",
+    "summary": "Pooled Lending and Borrowing Protocol",
+    "description": "Pooled lending and borrowing protocol with flash loans",
+    "documentation": "https://cointelegraph.com/press-releases/lenfi-reinforces-trust-with-a-second-audit-prior-to-mainnet-launch",
+    "framework": "Aiken",
+    "royalty": "NA",
+    "author": {
+        "name": "Lenfi",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/lenfi-v2/lenfi-logo.png"
+    },
+    "audit": {
+        "auditor": "https://txpipe.io/",
+        "audit_report": ""
+    },
+    "client": "",
+    "backend": ""
+}

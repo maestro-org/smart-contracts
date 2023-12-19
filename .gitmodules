@@ -4,3 +4,24 @@
 [submodule "contracts/yield-farming/yieldfarming"]
 	path = contracts/yield-farming/yieldfarming
 	url = https://github.com/Anastasia-Labs/yieldfarming.git
+[submodule "contracts/jpgstore-v3/contracts-v3"]
+	path = contracts/jpgstore-v3/contracts-v3
+	url = https://github.com/jpg-store/contracts-v3
+[submodule "contracts/direct-swap/direct-order-contracts"]
+	path = contracts/direct-swap/direct-order-contracts
+	url = https://github.com/Anastasia-Labs/direct-order-contracts
+[submodule "contracts/aada-v1/aada_v1_aiken"]
+	path = contracts/aada-v1/aada_v1_aiken
+	url = https://github.com/aadafinance/aada_v1_aiken
+[submodule "contracts/lenfi-v2/lenfi-smart-contracts"]
+	path = contracts/lenfi-v2/lenfi-smart-contracts
+	url = https://github.com/lenfiLabs/lenfi-smart-contracts
+[submodule "contracts/spectrum-finance/cardano-dex-contracts"]
+	path = contracts/spectrum-finance/cardano-dex-contracts
+	url = https://github.com/spectrum-finance/cardano-dex-contracts
+[submodule "contracts/encoins/encoins-core-aiken"]
+	path = contracts/encoins/encoins-core-aiken
+	url = https://github.com/encryptedcoins/encoins-core-aiken
+[submodule "contracts/nebula/nebula"]
+	path = contracts/nebula/nebula
+	url = https://github.com/spacebudz/nebula
