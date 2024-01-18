@@ -2,17 +2,23 @@
     "name": "Linear Vesting",
     "summary": "Lock tokens with a linear vesting schedule",
     "description": "Lock tokens with a linear vesting schedule and control the release of tokens over time",
-    "documentation": "https://docs.gomaestro.org/docs/ManagedContracts/LinearVesting/Introduction",
-    "framework": "Plutarch",
-    "royalty": "1%",
-    "author": {
+    "project": {
         "name": "Anastasia Labs",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/linear-vesting/anastasia_64x64.png"
+        "website": "https://anastasialabs.com/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/yield-farming/anastasia_64x64.png"
     },
-    "audit": {
-        "auditor": "https://anastasialabs.com/",
-        "audit_report": ""
-    },
-    "client": "https://github.com/maestro-org/smart-contract-clients/tree/main/src/stories/LinearVesting",
-    "backend": ""
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/Anastasia-Labs/linear-vesting",
+            "audit": {
+                  "provider": "Anastasia Labs",
+                  "report": "",
+                  "date": ""
+                }
+        }
+    ]
 }

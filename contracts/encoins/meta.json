@@ -1,18 +1,24 @@
 {
-    "name": "Encoins Core",
-    "summary": "Privacy accounts and payments protocol",
+    "contract": "Privacy payments",
+    "summary": "Encoins - Privacy accounts and payments protocol",
     "description": "Protect your privacy with ENCOINS. Cardano Native Tokens with Encrypted Redeeming Values.",
-    "documentation": "https://docs.encoins.io/",
-    "framework": "Aiken",
-    "royalty": "TBD",
-    "author": {
+    "project": {
         "name": "Encoins",
+        "website": "https://encoins.io/",
         "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/encoins/encoins-logo.jpeg"
     },
-    "audit": {
-        "auditor": "https://anastasialabs.com/",
-        "audit_report": "https://medium.com/@anastasia_labs/enhancing-security-and-trust-the-encoins-protocol-audit-update-b5e2a23adde2"
-    },
-    "client": "",
-    "backend": ""
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/encryptedcoins/encoins-core-aiken",
+            "audit": {
+                  "provider": "Anastasia Labs",
+                  "report": "",
+                  "date": ""
+                }
+        }
+    ]
 }

@@ -1,18 +1,19 @@
 {
-    "name": "Nebula",
-    "summary": "Cardano NFT marketplace",
+    "contract": "NFT Marketplace",
+    "summary": "Nebula - Cardano NFT marketplace ",
     "description": "A Cardano NFT marketplace contract including chain indexer and event listener for individual projects.",
-    "documentation": "https://medium.com/project-nebula/project-nebula-marketplace-a5c12abe042",
-    "framework": "Aiken",
-    "royalty": "TBD",
-    "author": {
+    "project": {
         "name": "SpaceBudz",
+        "website": "https://spacebudz.io/",
         "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/nebula/spacebuz-logo.png"
     },
-    "audit": {
-        "auditor": "",
-        "audit_report": ""
-    },
-    "client": "",
-    "backend": ""
+    "versions": [
+        {
+            "version": "latest", // Optional
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": "FALSE",
+            "repository": "https://github.com/spacebudz/nebula",
+        }
+    ]
 }

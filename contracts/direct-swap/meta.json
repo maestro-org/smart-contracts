@@ -2,17 +2,23 @@
     "name": "Direct Swap",
     "summary": "P2P swaps between token and NFT bundles",
     "description": "Highly flexible P2P swap contract between bundles of tokens and NFTs",
-    "documentation": "https://docs.gomaestro.org/ManagedContracts/DirectSwap/Introduction",
-    "framework": "Plutarch",
-    "royalty": "TBD",
-    "author": {
+    "project": {
         "name": "Anastasia Labs",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/direct-swap/anastasia_64x64.png"
+        "website": "https://anastasialabs.com/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/yield-farming/anastasia_64x64.png"
     },
-    "audit": {
-        "auditor": "https://anastasialabs.com/",
-        "audit_report": ""
-    },
-    "client": "",
-    "backend": ""
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/Anastasia-Labs/direct-offer",
+            "audit": {
+                  "provider": "Anastasia Labs",
+                  "report": "",
+                  "date": ""
+                }
+        }
+    ]
 }
