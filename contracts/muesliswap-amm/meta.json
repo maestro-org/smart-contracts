@@ -1,0 +1,28 @@
+{
+    "contract": "AMM DEX v1",
+    "summary": "MuesliSwap - AMM DEX protocol",
+    "description": "MuesliSwap - AMM DEX protocol",
+    "project": {
+        "name": "MuesliSwap",
+        "website": "https://muesliswap.com",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/muesliswap-amm/muesliswap-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/MuesliSwapTeam/muesliswap-cardano-pool-contracts",
+            "scriptHash": "7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8"
+        },
+        {
+            "version": "0",
+            "compiler": "Plutus",
+            "plutus_version": "v1",
+            "royalty": "TRUE",
+            "repository": "https://github.com/MuesliSwapTeam/muesliswap-cardano-pool-contracts",
+            "scriptHash": "e8baad9288dc9abdc099b46f2ac006b1a82c7df4996e067f00c04e8d"
+        }
+    ]
+}

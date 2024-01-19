@@ -5,7 +5,7 @@
     "project": {
         "name": "Anastasia Labs",
         "website": "https://anastasialabs.com/",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/yield-farming/anastasia_64x64.png"
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/yield-farming/anastasialabs-logo.png"
     },
     "versions": [
         {

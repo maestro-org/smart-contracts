@@ -13,7 +13,7 @@
             "compiler": "Plutarch",
             "plutusVersion": "v1",
             "royalty": "TRUE",
-            "repository": "https://github.com/spectrum-finance/cardano-dex-contracts",
+            "repository": "https://github.com/spectrum-finance/cardano-dex-contracts"
         }
     ]
 
