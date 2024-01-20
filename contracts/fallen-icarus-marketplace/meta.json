@@ -1,0 +1,20 @@
+{
+    "contract": "Derivatives Marketplace",
+    "summary": "Fallen Icarus - marketplace for option, futures, and bonds",
+    "description": "A p2p-DeFi marketplace for reselling financial tools suchs as option contracts, futures, and bonds.",
+    "project": {
+        "name": "Fallen Icarus",
+        "website": "https://github.com/fallen-icarus",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/fallen-icarus-marketplace/fallen-icarus-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutusVersion": "v2",
+            "royalty": "FALSE",
+            "repository": "https://github.com/fallen-icarus/cardano-secondary-market/"
+        }
+    ]
+
+}

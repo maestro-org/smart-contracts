@@ -1,5 +1,5 @@
 {
-    "name": "Linear Vesting",
+    "contract": "Linear Vesting",
     "summary": "Lock tokens with a linear vesting schedule",
     "description": "Lock tokens with a linear vesting schedule and control the release of tokens over time",
     "project": {

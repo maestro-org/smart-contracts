@@ -1,5 +1,5 @@
 {
-    "name": "P2P Lending",
+    "contract": "P2P Lending",
     "summary": "Cerra - P2P lending & borrowing order book",
     "description": "Individuals can initiate requests for lending or borrowing. These requests are then organized according to their interest rates, leading to the establishment of an order book",
     "project": {

@@ -1,0 +1,24 @@
+{
+    "contract": "Single Asset Staking",
+    "summary": "Stake assets and distribute rewards",
+    "description": "Earn and redeem yield on tokens staked at an address. The contract controls the release of tokens over time, ensuring that the recipient can only claim them gradually.",
+    "project": {
+        "name": "Anastasia Labs",
+        "website": "https://anastasialabs.com/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/single-asset-staking/anastasialabs-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/Anastasia-Labs/single-asset-staking",
+            "audit": {
+                  "provider": "Anastasia Labs",
+                  "report": "",
+                  "date": ""
+                }
+        }
+    ]
+}
