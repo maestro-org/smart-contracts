@@ -83,7 +83,7 @@ Meastro welcomes all contributors! Please see our [contributing guidelines](CONT
 | `contract` | Name of the smart contract | N | Linear Vesting |
 | `summary` | Short summary of the smart contract | N | Lock tokens with a linear vesting schedule |
 | `description` | Detailed descripton of how the smart contract works | N | Lock tokens with a linear vesting schedule and control the release of tokens over time |
-| `project:name` | Name of the project or author of the contract | | N | Anastasia Labs |
+| `project:name` | Name of the project or author of the contract |  N | Anastasia Labs |
 | `project:website`  |  Project website or author social link | N | https://anastasialabs.com/ |
 | `project:logo_64x64` | Public URI the 64x64 logo | N | https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/maestro-preprod/maestro-logo64x64.png |
 | `versions:version` |  Contract Plutus version | Y | `v1`, `v2` |
@@ -92,8 +92,8 @@ Meastro welcomes all contributors! Please see our [contributing guidelines](CONT
 | `versions:repository` | Contract github repository link | N | https://github.com/Anastasia-Labs/direct-offer/ |
 | `versions:scriptHash` | Contract script hash  | Y | `7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8`` |
 | `versions:audit:provider` | Audit firm name  | N | Tweag |
-| `versions:audit:report` | Audit report link  | Y | |
-| `versions:audit:date` | Audit report publish date  | Y | |
+| `versions:audit:report` | Audit report link  | Y | https://github.com/CatspersCoffee/contracts/blob/main/dex/audit-report/MinSwap-Jan31.pdf |
+| `versions:audit:date` | Audit report publish date  | Y | `2021-01-31` |
 | `versions:api` | Maestro API availalbe for this contract  | Y | https://docs.gomaestro.org/ManagedContracts/LinearVesting/Introduction |
 | `versions:client` | Client side code for interacting with contract | Y |  https://github.com/maestro-org/smart-contract-clients/tree/main/src/stories/LinearVesting |
 | `versions:backend` |  Backend code for interacting with Maestro API endpoints | Y | https://github.com/maestro-org/smart-contract-servers/linear-vesting |
