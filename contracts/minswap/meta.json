@@ -1,0 +1,36 @@
+{
+    "contract": "AMM DEX V1",
+    "summary": "Minswap - AMM DEX v1 protocol",
+    "description": "Minswap - AMM DEX v1 protocol",
+    "project": {
+        "name": "Minswap",
+        "website": "https://minswap.org/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/minswap/minswap-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutus_version": "v1",
+            "royalty": "TRUE",
+            "repository": "https://github.com/CatspersCoffee/contracts/",
+            "audit": {
+                  "provider": "Tweag",
+                  "report": "https://github.com/CatspersCoffee/contracts/blob/main/dex/audit-report/MinSwap-Jan31.pdf",
+                  "date": "2021-01-31"
+                }
+        },
+        {
+            "version": "0",
+            "compiler": "Plutus",
+            "plutus_version": "v1",
+            "royalty": "TRUE",
+            "repository": "https://github.com/CatspersCoffee/contracts/",
+            "audit": {
+                  "provider": "Tweag",
+                  "report": "https://github.com/CatspersCoffee/contracts/blob/main/dex/audit-report/MinSwap-assignment-Mar-03.pdf",
+                  "date": "2021-03-03"
+                }
+        }
+    ]
+}

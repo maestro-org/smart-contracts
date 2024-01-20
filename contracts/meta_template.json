@@ -1,20 +1,27 @@
 {
-    "name": "",
+    "contract": "",
     "summary": "",
     "description": "",
-    "documentation": "",
-    "framework": "",
-    "royalty": "",
-    "author": {
+    "project": {
         "name": "",
         "website": "",
         "logo_64x64": ""
     },
-    "audit": {
-        "auditor": "",
-        "website": "",
-        "audit_report": ""
-    },
-    "client": "",
-    "server": ""
+    "versions": [
+        {
+            "version": "", // Optional
+            "compiler": "",
+            "plutus_version": "",
+            "royalty": "",
+            "repository": "",
+            "scriptHash": "", // Optional
+            "audit": { // Optional
+                  "provider": "",
+                  "report": "",
+                  "date": ""
+                },
+            "client": "", // Optional
+            "backend": "" // Optional
+        }
+    ]
 }

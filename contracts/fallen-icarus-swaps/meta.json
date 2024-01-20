@@ -1,0 +1,20 @@
+{
+    "contract": "P2P Loans",
+    "summary": "Fallen Icarus - distributed p2p lending/borrowing protocol",
+    "description": "A distributed p2p lending/borrowing protocol for the Cardano Settlement Layer, with negotiable loan terms, pseudonymous credit histories, and full delegation control.",
+    "project": {
+        "name": "Fallen Icarus",
+        "website": "https://github.com/fallen-icarus",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/fallen-icarus-swaps/fallen-icarus-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Aiken",
+            "plutusVersion": "v2",
+            "royalty": "FALSE",
+            "repository": "https://github.com/fallen-icarus/cardano-loans"
+        }
+    ]
+
+}

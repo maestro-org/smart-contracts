@@ -45,22 +45,58 @@ If the the contract you're contributing is managed by Maestro or another provide
 Meastro welcomes all contributors! Please see our [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Smart contract metadata
+
+```js
+{
+    "contract": "",
+    "summary": "",
+    "description": "",
+    "project": {
+        "name": "",
+        "website": "",
+        "logo_64x64": ""
+    },
+    "versions": [
+        {
+            "version": "", // Optional
+            "compiler": "",
+            "plutus_version": "",
+            "royalty": "",
+            "repository": "",
+            "scriptHash": "", // Optional
+            "audit": { // Optional
+                  "provider": "",
+                  "report": "", // Optional
+                  "date": "" // Optional
+                },
+            "api": "", // Optional
+            "client": "", // Optional
+            "backend": "" // Optional
+        }
+    ]
+}
+```
+
+
 | Parameter   | Description | Optional (Y/N) | Example     |
 | ----------- | ----------- | -------------- | ----------- |
-| `name` | Name of the smart contract | N | Linear Vesting |
+| `contract` | Name of the smart contract | N | Linear Vesting |
 | `summary` | Short summary of the smart contract | N | Lock tokens with a linear vesting schedule |
-| `description` | Detailed descripton of how the smart contract works | Y | Lock tokens with a linear vesting schedule and control the release of tokens over time |
-| `documentation` | Link to documentation explaining the | Y | https://docs.gomaestro.org/docs/ManagedContracts/LinearVesting/Introduction |
-| `framework` | Smart contract framework used to build the contract | N | Plutarch or Aiken |
-| `royalty` | On-chain cost of using the contract | Y | 1% |
-| `author:name` | Name of the smart contract author | N | Anastasia Labs |
-| `author:website` | Website of the smart contract | N | https://anastasialabs.com/ |
-| `author:logo_64x64` | Public URI the 64x64 logo | Y | https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/maestro-preprod/maestro-logo64x64.png |
-| `audit:auditor` | Name of the organization that audiated the smart contract | Y | Anastasia Labs |
-| `audit:website` | Website of the auditor | Y | https://anastasialabs.com/ |
-| `audit:audit_report` | Public audit report  | Y |  |
-| `client` | Client side code for interacting with contract | Y | https://github.com/maestro-org/smart-contract-clients/tree/main/src/stories/LinearVesting |
-| `server` | Backend code for interacting with Maestro API endpoints | Y | https://github.com/maestro-org/smart-contract-servers/linear-vesting |
+| `description` | Detailed descripton of how the smart contract works | N | Lock tokens with a linear vesting schedule and control the release of tokens over time |
+| `project:name` | Name of the project or author of the contract |  N | Anastasia Labs |
+| `project:website`  |  Project website or author social link | N | https://anastasialabs.com/ |
+| `project:logo_64x64` | Public URI the 64x64 logo | N | https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/maestro-preprod/maestro-logo64x64.png |
+| `versions:version` |  Contract Plutus version | Y | `v1`, `v2` |
+| `versions:compiler` | Smart contract framework used to build the contract  | N | `Plutus`, `Plutarch`, `Aiken` |
+| `versions:royalty` |  Does the contract author charges a contract fee  | N | `YES` or `NO` |
+| `versions:repository` | Contract github repository link | N | https://github.com/Anastasia-Labs/direct-offer/ |
+| `versions:scriptHash` | Contract script hash  | Y | `7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8` |
+| `versions:audit:provider` | Audit firm name  | N | Tweag |
+| `versions:audit:report` | Audit report link  | Y | https://github.com/CatspersCoffee/contracts/blob/main/dex/audit-report/MinSwap-Jan31.pdf |
+| `versions:audit:date` | Audit report publish date  | Y | `2021-01-31` |
+| `versions:api` | Maestro API availalbe for this contract  | Y | https://docs.gomaestro.org/ManagedContracts/LinearVesting/Introduction |
+| `versions:client` | Client side code for interacting with contract | Y |  https://github.com/maestro-org/smart-contract-clients/tree/main/src/stories/LinearVesting |
+| `versions:backend` |  Backend code for interacting with Maestro API endpoints | Y | https://github.com/maestro-org/smart-contract-servers/linear-vesting |
 
 # Documentation
 * [Complete E2E guide](TBD) on how to fully integrate your contract with the Maestro platform

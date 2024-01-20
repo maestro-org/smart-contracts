@@ -1,0 +1,19 @@
+{
+    "contract": "NFT Marketplace",
+    "summary": "Token Riot - NFT selling, offering, auctions, and timelocks.",
+    "description": "Token Riot - NFT selling, offering, auctions, and timelocks.",
+    "project": {
+        "name": "Token Riot",
+        "website": "https://tokenriot.io/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/tokenriot/tokenriot-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/TokenRiot/token-riot-contracts"
+        }
+    ]
+}

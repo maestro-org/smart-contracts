@@ -1,0 +1,20 @@
+{
+    "contract": "Governance Proposal",
+    "summary": "Indigo - Governance proposal creation",
+    "description": "",
+    "project": {
+        "name": "Indigo",
+        "website": "https://indigoprotocol.io/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/indigo-proposal/indigo-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutusVersion": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/IndigoProtocol/indigo-smart-contracts/blob/main/src/Indigo/Contracts/Governance/Gov/OnChain.hs"
+        }
+    ]
+
+}

@@ -1,0 +1,20 @@
+{
+    "contract": "Treasury",
+    "summary": "Indigo - Treasury",
+    "description": "Indigo - Treasury",
+    "project": {
+        "name": "Indigo",
+        "website": "https://indigoprotocol.io/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/indigo-treasury/indigo-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutusVersion": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/IndigoProtocol/indigo-smart-contracts/blob/main/src/Indigo/Contracts/Oracle/OnChain.hs"
+        }
+    ]
+
+}

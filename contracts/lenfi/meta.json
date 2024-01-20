@@ -1,0 +1,36 @@
+{
+    "contract": "Pool Lending Protocol",
+    "summary": "Lenfi - Pooled Lending and Borrowing Protocol",
+    "description": "Pooled lending and borrowing protocol with flash loans",
+    "project": {
+        "name": "Lenfi",
+        "website": "https://lenfi.io/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/lenfi-v2/lenfi-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/lenfiLabs/lenfi-smart-contracts",
+            "audit": { 
+                  "provider": "TxPipe",
+                  "report": "",
+                  "date": ""
+                }
+        },
+        {
+            "version": "1", 
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/aadafinance/aada_v1_aiken/",
+            "audit": { 
+                  "provider": "TxPipe",
+                  "report": "",
+                  "date": ""
+                }
+        }
+    ]
+}

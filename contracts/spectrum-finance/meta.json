@@ -1,18 +1,20 @@
 {
-    "name": "Spectrum Finance",
-    "summary": "Trustless connected Cross-chain DEX",
+    "contract": "AMM DEX",
+    "summary": "Spectrum Finance Swap Order Contract",
     "description": "Cross-chain DEX for fast, trustless cross-chain swaps, liquidity provision & liquidity mining.",
-    "documentation": "https://spectrum.fi/spectrum_wp_v1.pdf",
-    "framework": "Plutarch",
-    "royalty": "",
-    "author": {
+    "project": {
         "name": "Spectrum Network",
+        "website": "https://spectrum.fi",
         "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/spectrum-finance/spectrum-logo.jpg"
     },
-    "audit": {
-        "auditor": "",
-        "audit_report": ""
-    },
-    "client": "",
-    "backend": ""
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutusVersion": "v1",
+            "royalty": "TRUE",
+            "repository": "https://github.com/spectrum-finance/cardano-dex-contracts"
+        }
+    ]
+
 }

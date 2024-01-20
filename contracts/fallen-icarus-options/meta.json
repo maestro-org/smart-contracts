@@ -1,0 +1,20 @@
+{
+    "contract": "P2P Options",
+    "summary": "Fallen Icarus - p2p options trading",
+    "description": "A p2p-DeFi protocol for options contracts on the Cardano Settlement Layer.",
+    "project": {
+        "name": "Fallen Icarus",
+        "website": "https://github.com/fallen-icarus",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/fallen-icarus-options/fallen-icarus-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutusVersion": "v2",
+            "royalty": "FALSE",
+            "repository": "https://github.com/fallen-icarus/cardano-options/"
+        }
+    ]
+
+}

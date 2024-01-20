@@ -1,0 +1,38 @@
+{
+    "contract": "NFT marketplace",
+    "summary": "JPG.store Bid and Ask contract powering NFT marketplace.",
+    "description": "Two main contracts: Bid and Ask. Bids are offerings in ADA in exchange for a given asset, asks are assets in exchange for ADA.",
+    "project": {
+        "name": "JPG.store",
+        "website": "https://www.jpg.store/",
+        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/jpgstore-v3/jpgstore-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/jpg-store/contracts-v3",
+            "audit": { 
+                  "provider": "Sundaeswap",
+                  "report": "",
+                  "date": ""
+                }
+        },
+        {
+            "version": "2",
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": "TRUE",
+            "repository": "https://github.com/jpg-store/contract-v2"
+        },
+        {
+            "version": "1",
+            "compiler": "Plutus",
+            "plutus_version": "v1",
+            "royalty": "TRUE",
+            "repository": "https://github.com/jpg-store/current-jpg-store-contracts"
+        },
+    ]
+}
