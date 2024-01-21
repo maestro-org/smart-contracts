@@ -9,7 +9,7 @@
     },
     "versions": [
         {
-            "version": "latest", // Optional
+            "version": "latest",
             "compiler": "Aiken",
             "plutus_version": "v2",
             "royalty": false,
