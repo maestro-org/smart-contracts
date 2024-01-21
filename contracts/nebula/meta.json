@@ -9,10 +9,10 @@
     },
     "versions": [
         {
-            "version": "latest", // Optional
+            "version": "latest",
             "compiler": "Aiken",
             "plutus_version": "v2",
-            "royalty": "FALSE",
+            "royalty": false,
             "repository": "https://github.com/spacebudz/nebula",
         }
     ]

@@ -12,7 +12,7 @@
             "version": "latest",
             "compiler": "Aiken",
             "plutusVersion": "v2",
-            "royalty": "FALSE",
+            "royalty": false,
             "repository": "https://github.com/fallen-icarus/cardano-loans"
         }
     ]

@@ -12,7 +12,7 @@
             "version": "latest",
             "compiler": "Plutus",
             "plutus_version": "v1",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts/",
             "scriptHash": "15b95fdaceeb507073a1bd198803373beeafbd82560fbf8abe9073ff"
         },
@@ -20,7 +20,7 @@
             "version": "0",
             "compiler": "Plutus",
             "plutus_version": "v1",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/MuesliSwapTeam/muesliswap-cardano-contracts/",
             "scriptHash": "ea184d0a7e640c4b5daa3f2cef851e75477729c2fd89f6ffbed7874c"
         }

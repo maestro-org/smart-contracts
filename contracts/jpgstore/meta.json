@@ -12,7 +12,7 @@
             "version": "latest",
             "compiler": "Aiken",
             "plutus_version": "v2",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/jpg-store/contracts-v3",
             "audit": { 
                   "provider": "Sundaeswap",
@@ -24,14 +24,14 @@
             "version": "2",
             "compiler": "Aiken",
             "plutus_version": "v2",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/jpg-store/contract-v2"
         },
         {
             "version": "1",
             "compiler": "Plutus",
             "plutus_version": "v1",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/jpg-store/current-jpg-store-contracts"
         },
     ]
