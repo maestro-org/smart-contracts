@@ -13,7 +13,7 @@
             "compiler": "Aiken",
             "plutus_version": "v2",
             "royalty": false,
-            "repository": "https://github.com/spacebudz/nebula",
+            "repository": "https://github.com/spacebudz/nebula"
         }
     ]
 }

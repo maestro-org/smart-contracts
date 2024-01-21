@@ -33,6 +33,6 @@
             "plutus_version": "v1",
             "royalty": true,
             "repository": "https://github.com/jpg-store/current-jpg-store-contracts"
-        },
+        }
     ]
 }
