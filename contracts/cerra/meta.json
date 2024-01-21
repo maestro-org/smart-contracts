@@ -12,7 +12,7 @@
             "version": "latest",
             "compiler": "Plutus",
             "plutus_version": "v2",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/cerraio/lending-plutus"
         }
     ]

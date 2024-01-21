@@ -12,7 +12,7 @@
             "version": "", // Optional
             "compiler": "",
             "plutus_version": "",
-            "royalty": "",
+            "royalty": true/false,
             "repository": "",
             "scriptHash": "", // Optional
             "audit": { // Optional

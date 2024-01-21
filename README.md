@@ -88,7 +88,7 @@ Meastro welcomes all contributors! Please see our [contributing guidelines](CONT
 | `project:logo_64x64` | Public URI the 64x64 logo | N | https://raw.githubusercontent.com/maestro-org/ispo-metadata/main/maestro-preprod/maestro-logo64x64.png |
 | `versions:version` |  Contract Plutus version | Y | `v1`, `v2` |
 | `versions:compiler` | Smart contract framework used to build the contract  | N | `Plutus`, `Plutarch`, `Aiken` |
-| `versions:royalty` |  Does the contract author charges a contract fee  | N | `YES` or `NO` |
+| `versions:royalty` |  Does the contract author charges a contract fee  | N | `true` or `false` |
 | `versions:repository` | Contract github repository link | N | https://github.com/Anastasia-Labs/direct-offer/ |
 | `versions:scriptHash` | Contract script hash  | Y | `7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8` |
 | `versions:audit:provider` | Audit firm name  | N | Tweag |

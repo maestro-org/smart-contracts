@@ -12,7 +12,7 @@
             "version": "latest",
             "compiler": "Plutus",
             "plutus_version": "v1",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/CatspersCoffee/contracts/",
             "audit": {
                   "provider": "Tweag",
@@ -24,7 +24,7 @@
             "version": "0",
             "compiler": "Plutus",
             "plutus_version": "v1",
-            "royalty": "TRUE",
+            "royalty": true,
             "repository": "https://github.com/CatspersCoffee/contracts/",
             "audit": {
                   "provider": "Tweag",
