@@ -9,19 +9,20 @@
     },
     "versions": [
         {
-            "version": "", // Optional
+            "version": "",
             "compiler": "",
             "plutus_version": "",
-            "royalty": true/false,
+            "royalty": true,
             "repository": "",
-            "script_hash": "", // Optional
-            "audit": { // Optional
+            "script_hash": "",
+            "audit": { 
                   "provider": "",
                   "report": "",
                   "date": ""
                 },
-            "client": "", // Optional
-            "backend": "" // Optional
+            "client": "",
+            "backend": "",
+            "api": ""
         }
     ]
 }

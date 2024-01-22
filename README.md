@@ -44,39 +44,7 @@ If the the contract you're contributing is managed by Maestro or another provide
 
 Meastro welcomes all contributors! Please see our [contributing guidelines](CONTRIBUTING.md) and [code of conduct](CODE_OF_CONDUCT.md).
 
-## Smart contract metadata
-
-```js
-{
-    "contract": "",
-    "summary": "",
-    "description": "",
-    "project": {
-        "name": "",
-        "website": "",
-        "logo_64x64": ""
-    },
-    "versions": [
-        {
-            "version": "", // Optional
-            "compiler": "",
-            "plutus_version": "",
-            "royalty": "",
-            "repository": "",
-            "script_hash": "", // Optional
-            "audit": { // Optional
-                  "provider": "",
-                  "report": "", // Optional
-                  "date": "" // Optional
-                },
-            "api": "", // Optional
-            "client": "", // Optional
-            "backend": "" // Optional
-        }
-    ]
-}
-```
-
+## [Smart contract metadata](contracts/meta_template.json)
 
 | Parameter   | Description | Optional (Y/N) | Example     |
 | ----------- | ----------- | -------------- | ----------- |
