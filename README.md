@@ -63,7 +63,7 @@ Meastro welcomes all contributors! Please see our [contributing guidelines](CONT
             "plutus_version": "",
             "royalty": "",
             "repository": "",
-            "scriptHash": "", // Optional
+            "script_hash": "", // Optional
             "audit": { // Optional
                   "provider": "",
                   "report": "", // Optional
@@ -90,7 +90,7 @@ Meastro welcomes all contributors! Please see our [contributing guidelines](CONT
 | `versions:compiler` | Smart contract framework used to build the contract  | N | `Plutus`, `Plutarch`, `Aiken` |
 | `versions:royalty` |  Does the contract author charges a contract fee  | N | `true` or `false` |
 | `versions:repository` | Contract github repository link | N | https://github.com/Anastasia-Labs/direct-offer/ |
-| `versions:scriptHash` | Contract script hash  | Y | `7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8` |
+| `versions:script_hash` | Contract script hash  | Y | `7045237d1eb0199c84dffe58fe6df7dc5d255eb4d418e4146d5721f8` |
 | `versions:audit:provider` | Audit firm name  | N | Tweag |
 | `versions:audit:report` | Audit report link  | Y | https://github.com/CatspersCoffee/contracts/blob/main/dex/audit-report/MinSwap-Jan31.pdf |
 | `versions:audit:date` | Audit report publish date  | Y | `2021-01-31` |

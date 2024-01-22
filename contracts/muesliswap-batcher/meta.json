@@ -14,7 +14,7 @@
             "plutus_version": "v2",
             "royalty": true,
             "repository": "https://github.com/MuesliSwapTeam/muesliswap-cardano-pool-contracts",
-            "scriptHash": "73ede893f547edbd25da6953fda33caacd01f44047922bf7c5ceb951"
+            "script_hash": "73ede893f547edbd25da6953fda33caacd01f44047922bf7c5ceb951"
         },
         {
             "version": "0",
@@ -22,7 +22,7 @@
             "plutus_version": "v1",
             "royalty": true,
             "repository": "https://github.com/MuesliSwapTeam/muesliswap-cardano-pool-contracts",
-            "scriptHash": "1b3c5a646a018e0cfbd40fba97518c8e955e5869f0afd4f8c568493e"
+            "script_hash": "1b3c5a646a018e0cfbd40fba97518c8e955e5869f0afd4f8c568493e"
         }
     ]
 }

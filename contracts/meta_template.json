@@ -14,7 +14,7 @@
             "plutus_version": "",
             "royalty": true/false,
             "repository": "",
-            "scriptHash": "", // Optional
+            "script_hash": "", // Optional
             "audit": { // Optional
                   "provider": "",
                   "report": "",
