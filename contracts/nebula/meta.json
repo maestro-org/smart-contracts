@@ -5,7 +5,7 @@
     "project": {
         "name": "SpaceBudz",
         "website": "https://spacebudz.io/",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/nebula/spacebuz-logo.png"
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/spacebuz-logo.png"
     },
     "versions": [
         {

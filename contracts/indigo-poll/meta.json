@@ -5,7 +5,7 @@
     "project": {
         "name": "Indigo",
         "website": "https://indigoprotocol.io/",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/indigo-poll/indigo-logo.png"
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/indigo-logo.png"
     },
     "versions": [
         {
