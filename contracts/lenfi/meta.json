@@ -5,7 +5,7 @@
     "project": {
         "name": "Lenfi",
         "website": "https://lenfi.io/",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/lenfi-v2/lenfi-logo.png"
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/muesliswap-logo.png"
     },
     "versions": [
         {

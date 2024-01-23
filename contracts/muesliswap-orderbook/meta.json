@@ -5,7 +5,7 @@
     "project": {
         "name": "MuesliSwap",
         "website": "https://muesliswap.com",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/muesliswap-orderbook/muesliswap-logo.png"
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/muesliswap-logo.png"
     },
     "versions": [
         {

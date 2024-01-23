@@ -5,7 +5,7 @@
     "project": {
         "name": "Cerra",
         "website": "https://cerra.io",
-        "logo_64x64": "https://raw.githubusercontent.com/maestro-org/smart-contracts/contracts/cerra/cerra-logo.jpeg"
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/cerra-logo.jpeg"
     },
     "versions": [
         {
