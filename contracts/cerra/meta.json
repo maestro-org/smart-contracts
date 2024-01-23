@@ -14,11 +14,6 @@
             "plutus_version": "v2",
             "royalty": true,
             "repository": "https://github.com/cerraio/lending-plutus"
-        },
-        "audit": { 
-              "provider": "testing123",
-              "report": "testing123",
-              "date": "testing123"
         }
     ]
 }
