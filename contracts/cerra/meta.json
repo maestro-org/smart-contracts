@@ -13,12 +13,7 @@
             "compiler": "Plutus",
             "plutus_version": "v2",
             "royalty": true,
-            "repository": "https://github.com/cerraio/lending-plutus",
-            "audit": { 
-                  "provider": "testing123",
-                  "report": "",
-                  "date": ""
-            }
+            "repository": "https://github.com/cerraio/lending-plutus"
         }
     ]
 }
