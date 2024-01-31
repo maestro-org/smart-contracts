@@ -1,6 +1,6 @@
 {
-    "contract": "Treasury",
-    "summary": "Indigo - Treasury",
+    "contract": "Onchain Oracle",
+    "summary": "Indigo - Onchain oracle script",
     "description": "Indigo - Treasury",
     "project": {
         "name": "Indigo",

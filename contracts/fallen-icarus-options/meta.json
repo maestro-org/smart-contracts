@@ -1,6 +1,6 @@
 {
     "contract": "P2P Options",
-    "summary": "Fallen Icarus - p2p options trading",
+    "summary": "Fallen Icarus - p2p-DeFi protocol for options trading",
     "description": "A p2p-DeFi protocol for options contracts on the Cardano Settlement Layer.",
     "project": {
         "name": "Fallen Icarus",

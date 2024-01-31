@@ -1,6 +1,6 @@
 {
     "contract": "Governance Proposal",
-    "summary": "Indigo - Governance proposal creation",
+    "summary": "Indigo - onchain governance proposal creation",
     "description": "",
     "project": {
         "name": "Indigo",

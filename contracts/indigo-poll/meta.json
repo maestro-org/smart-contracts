@@ -1,6 +1,6 @@
 {
-    "contract": "Governance Pool",
-    "summary": "Indigo - Governance pooling script",
+    "contract": "Governance Polling",
+    "summary": "Indigo - Onchain governance polling script",
     "description": "",
     "project": {
         "name": "Indigo",

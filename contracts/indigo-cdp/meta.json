@@ -1,6 +1,6 @@
 {
-    "contract": "CDP",
-    "summary": "Indigo - collateralized debt position protocol",
+    "contract": "Collateralized Debt Position",
+    "summary": "Indigo - collateralized debt position (CDP) protocol",
     "description": "",
     "project": {
         "name": "Indigo",
