@@ -1,19 +1,19 @@
 {
-    "contract": "P2P Loans",
-    "summary": "Fallen Icarus - distributed p2p lending/borrowing protocol",
-    "description": "A distributed p2p lending/borrowing protocol for the Cardano Settlement Layer, with negotiable loan terms, pseudonymous credit histories, and full delegation control.",
+    "contract": "P2P Swaps",
+    "summary": "Fallen Icarus - distributed order-book DEX with composable atomic swaps",
+    "description": "A distributed order-book DEX using composable atomic swaps with full delegation control and endogenous liquidity.",
     "project": {
         "name": "Fallen Icarus",
         "website": "https://github.com/fallen-icarus",
-        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/indigo-logo.png"
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/fallen-icarus-logo.png"
     },
     "versions": [
         {
             "version": "latest",
-            "compiler": "Aiken",
+            "compiler": "Plutus",
             "plutusVersion": "v2",
             "royalty": false,
-            "repository": "https://github.com/fallen-icarus/cardano-loans"
+            "repository": "https://github.com/fallen-icarus/cardano-swaps/"
         }
     ]
 }

@@ -1,6 +1,6 @@
 {
-    "contract": "Stability Pool",
-    "summary": "Indigo - Stability Pool",
+    "contract": "Staking contract",
+    "summary": "Indigo - staking contract",
     "description": "",
     "project": {
         "name": "Indigo",

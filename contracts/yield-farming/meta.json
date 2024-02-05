@@ -13,7 +13,7 @@
             "compiler": "Plutarch",
             "plutus_version": "v2",
             "royalty": true,
-            "repository": "https://github.com/Anastasia-Labs/yieldfarming/tree/master",
+            "repository": "https://github.com/Anastasia-Labs/yieldfarming",
             "audit": {
                   "provider": "Anastasia Labs",
                   "report": "",

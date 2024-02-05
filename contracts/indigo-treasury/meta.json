@@ -1,7 +1,7 @@
 {
-    "contract": "Stability Pool",
-    "summary": "Indigo - Stability Pool",
-    "description": "",
+    "contract": "Onchain Treasury",
+    "summary": "Indigo - onchain treasury protocol",
+    "description": "Indigo - Treasury",
     "project": {
         "name": "Indigo",
         "website": "https://indigoprotocol.io/",
@@ -13,8 +13,7 @@
             "compiler": "Plutus",
             "plutusVersion": "v2",
             "royalty": true,
-            "repository": "https://github.com/IndigoProtocol/indigo-smart-contracts/blob/main/src/Indigo/Contracts/Treasury/OnChain.hs"
+            "repository": "https://github.com/IndigoProtocol/indigo-smart-contracts/blob/main/src/Indigo/Contracts/Oracle/OnChain.hs"
         }
     ]
-
 }
