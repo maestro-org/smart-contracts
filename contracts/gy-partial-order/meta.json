@@ -1,11 +1,11 @@
 {
-    "contract": "Partial Order",
-    "summary": "Validator governing conditions under which a given limit orders can be filled (partially or fully) or canceled.",
-    "description": "Implements a DEX for users to swap (Cardano native) tokens, which include ada and arbitrary custom tokens. Users can swap without needing to trust some authority or each other.",
+    "contract": "Orderbook DEX",
+    "summary": "Pure Orderbook DEX (no batchers) supporting partial orders",
+    "description": "Genius Yield ordebook DEX. Supports partial P2P swaps with Smart Order Routers and no batchers",
     "project": {
         "name": "Genius Yield",
         "website": "https://www.geniusyield.co/",
-        "logo_64x64": ""
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/gy-logo.png"
     },
     "versions": [
         {
