@@ -1,11 +1,11 @@
 {
-    "contract": "Special NFT for Partially Fillable Orders",
-    "summary": "Similar to the NFT smart contract above, but also guarantees that any UTxO containing a token under this minting policy identifier represents a valid DEX order.",
-    "description": "Implements a DEX for users to swap (Cardano native) tokens, which include ada and arbitrary custom tokens. Users can swap without needing to trust some authority or each other.",
+    "contract": "DEX Order Validator",
+    "summary": "GY - Validate new DEX limit orders",
+    "description": "Any UTxO containing a token under this minting policy identifier represents a valid DEX order.",
     "project": {
         "name": "Genius Yield",
         "website": "https://www.geniusyield.co/",
-        "logo_64x64": ""
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/gy-logo.png"
     },
     "versions": [
         {
