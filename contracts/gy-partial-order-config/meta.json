@@ -1,0 +1,19 @@
+{
+    "contract": "DEX Fee Config",
+    "summary": "GY - Set maker & taker DEX fees",
+    "description": "Governs fees charged to maker & taker when creating, filling an order without changin the script address",
+    "project": {
+        "name": "Genius Yield",
+        "website": "https://www.geniusyield.co/",
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/gy-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutus_version": "v2",
+            "royalty": false,
+            "repository": "https://github.com/geniusyield/dex-contracts-api/blob/main/geniusyield-onchain/src/GeniusYield/OnChain/DEX/PartialOrderConfig.hs"
+        }
+    ]
+}

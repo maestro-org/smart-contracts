@@ -1,0 +1,19 @@
+{
+    "contract": "DEX Order Validator",
+    "summary": "GY - Validate new DEX limit orders",
+    "description": "Any UTxO containing a token under this minting policy identifier represents a valid DEX order.",
+    "project": {
+        "name": "Genius Yield",
+        "website": "https://www.geniusyield.co/",
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/gy-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutus_version": "v2",
+            "royalty": false,
+            "repository": "https://github.com/geniusyield/dex-contracts-api/blob/main/geniusyield-onchain/src/GeniusYield/OnChain/DEX/PartialOrderNFT.hs"
+        }
+    ]
+}

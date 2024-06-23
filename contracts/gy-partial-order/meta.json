@@ -1,0 +1,19 @@
+{
+    "contract": "Orderbook DEX",
+    "summary": "Pure Orderbook DEX (no batchers) supporting partial orders",
+    "description": "Genius Yield ordebook DEX. Supports partial P2P swaps with Smart Order Routers and no batchers",
+    "project": {
+        "name": "Genius Yield",
+        "website": "https://www.geniusyield.co/",
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/gy-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutarch",
+            "plutus_version": "v2",
+            "royalty": false,
+            "repository": "https://github.com/geniusyield/dex-contracts-api/blob/main/geniusyield-onchain/src/GeniusYield/OnChain/DEX/PartialOrder.hs"
+        }
+    ]
+}
