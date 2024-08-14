@@ -1,0 +1,18 @@
+{
+    "contract": "Work Bounty",
+    "summary": "Issue a work bounty",
+    "description": "Initiate a bounty, assign a approver, and allow bounty hunter to collect if approved",
+    "project": {
+        "name": "starcada",
+        "website": "https://x.com/starcada1"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Plutus",
+            "plutus_version": "v2",
+            "royalty": true,
+            "repository": "https://hub.darcs.net/Jonathan/iagon-darcs-hub-three/browse/contract"
+        }
+    ]
+}
