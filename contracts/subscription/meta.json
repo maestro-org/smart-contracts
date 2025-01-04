@@ -1,0 +1,25 @@
+{
+    "contract": "Payment subscription",
+    "summary": "Automated recurring payments between subscribers and merchants",
+    "description": "Set up, manage and cancel subscriptions directly on wallets, ensuring secure and efficient transactions",
+    "project": {
+        "name": "Anastasia Labs",
+        "website": "https://anastasialabs.com/",
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/anastasialabs-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": true,
+            "repository": "https://github.com/Anastasia-Labs/payment-subscription",
+            "audit": {
+                "provider": "Anastasia Labs",
+                "report": "",
+                "date": ""
+            },
+            "api": "https://docs.gomaestro.org/cardano/initiate-a-subscription"
+        }
+    ]
+}

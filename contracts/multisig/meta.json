@@ -1,0 +1,25 @@
+{
+    "contract": "Multisig",
+    "summary": "Upgradable multi-signature contract",
+    "description": "Secure and collaborative management of funds, collectively authorize transactions and ensure funds can only be moved with the required approvals",
+    "project": {
+        "name": "Anastasia Labs",
+        "website": "https://anastasialabs.com/",
+        "logo_64x64": "https://storage.googleapis.com/contract-marketplace/projects/anastasialabs-logo.png"
+    },
+    "versions": [
+        {
+            "version": "latest",
+            "compiler": "Aiken",
+            "plutus_version": "v2",
+            "royalty": true,
+            "repository": "https://github.com/Anastasia-Labs/aiken-upgradable-multisig",
+            "audit": {
+                "provider": "Anastasia Labs",
+                "report": "",
+                "date": ""
+            },
+            "api": "https://docs.gomaestro.org/cardano/initiate-a-multisig-contract"
+        }
+    ]
+}
